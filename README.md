@@ -3,8 +3,6 @@ Code Challenge for Taller
 
 
 Jose Peixoto <js.peixotoalves@gmail.com>
-17:04 (há 2 minutos)
-para mim
 
 import java.util.*;
 import java.lang.*;
